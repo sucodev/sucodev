@@ -7,11 +7,11 @@
 
 </h4>
 
-I'm a developer with solid knowledge in Front-end and UI/UX Design, I have more than 7 years of experience in Software Engineering and in the creation of new interfaces.
+I am Full Stack Software Engineer specialized in Front-End, I have over 8 years of experience in creations websites and systems, with a focus on several relevant projects.
 
-In 2020 I joined the Systems Analysis and Development area and in the same year I participated in Hacking Rio representing the faculty, in all there were 1500 participants (300 teams). It was a great challenge and with a lot of effort, teamwork and many coffees... we won third place and this is one of the achievements that I am most proud of so far in my career as a developer.
+I worked from creating landing pages to integrations and implementations of micro-services using day-to-day agile methodology. In my projects, I always use design patterns, like at: TDD, Solid, Clean Architeture. I has experience certificated with frameworks javascript, like: React.JS, Next.Js, Vue.JS for front-end and Node.JS for back-end. I has too experiences with CI/CD using Github Actions, Vercel, Digital Ocean or others ways, uniting tests with Jest, Testing Library for React or Vue and styling TailwindCSS, Bootstrap, Styled Components, SCSS, SASS, LESS, PostCSS and Stylus. 
 
-At the moment, I'm working on a project in the PJ modality as a Front End Engineer in the largest retail chain in Brazil.
+During my 8 years with software developer, I continue working with a several projects relevants that they are not only very importants for my development but they are crucial to the growth of my career as a developer. It's the brands that who have made a difference in my life over these 8 years of my career: Real Tecnologia, Rankme, NTT Data (before Everis), Contabilizei, Hortifruti, Mosaico, Zuvia, Nivello, Hospital Sírio Libanês, Fuel Eyewear, GNT and now I have my own company for make new stories and improve my client's metrics.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
