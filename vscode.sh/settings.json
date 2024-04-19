@@ -1,0 +1,112 @@
+{
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "symbols",
+  //Configura o tamanho e família da fonte
+  "editor.inlayHints.fontFamily": "Victor Mono",
+  "editor.fontFamily": "Victor Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 24,
+  //Tamanho da fonte do terminal integrado VSCode
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "terminal.integrated.fontSize": 14,
+  //Aplica linhas verticais para lembrar de quebrar linhas
+  "editor.rulers": [
+    // 80,
+    120
+  ],
+  "editor.wordWrap": "bounded",
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  //Não importar automaticamente os arquivos externos
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  // Brackets Pair Colorization
+  "editor.bracketPairColorization.enabled": true,
+  //Árvore de pastas
+  "breadcrumbs.enabled": true,
+  //Integrar Prettier + ESLint
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  //Aplica um sinal visual na esquerda da linha selecionada
+  "editor.renderLineHighlight": "gutter",
+  "editor.tabSize": 2,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "njk": "html"
+  },
+  //Dicas (documentações)
+  "editor.parameterHints.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.mouseWheelZoom": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "gitlens.views.repositories.branches.layout": "list",
+  "[javasacript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "json.schemas": [
+    {
+      "name": "vscode-expo-manifest",
+      "url": "file:///Users/birobirobiro/Library/Application%20Support/Code/User/globalStorage/bycedric.vscode-expo/manifest-45.0.0.json",
+      "fileMatch": [
+        "app.json",
+        "app.config.json"
+      ]
+    }
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "livePreview.notifyOnOpenLooseFile": false,
+  "editor.accessibilitySupport": "off",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.unicodeHighlight.allowedCharacters": {
+    "​": true
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "settingsSync.ignoredSettings": [],
+  "tabnine.experimentalAutoImports": true,
+  "symbols.hidesExplorerArrows": false,
+  "react-native-tools.showUserTips": false,
+  "terminal.integrated.gpuAcceleration": "off",
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "vscode-pets.petType": "cat",
+  "vscode-pets.petColor": "white",
+  "vscode-pets.petSize": "medium",
+  "vscode-pets.position": "explorer",
+}
