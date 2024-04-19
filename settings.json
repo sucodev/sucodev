@@ -77,9 +77,6 @@
     "[html]": {
       "editor.defaultFormatter": "vscode.html-language-features"
     },
-    "editor.unicodeHighlight.allowedCharacters": {
-      "​": true
-    },
     "[javascriptreact]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
