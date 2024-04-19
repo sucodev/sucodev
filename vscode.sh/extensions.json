@@ -1,0 +1,29 @@
+{
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "Codeium.codeium",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "enkia.tokyo-night",
+    "figma.figma-vscode-extension",
+    "humao.rest-client",
+    "miguelsolorio.fluent-icons",
+    "miguelsolorio.symbols",
+    "mikestead.dotenv",
+    "ms-vscode.live-server",
+    "ms-vsliveshare.vsliveshare",
+    "naumovs.color-highlight",
+    "qwtel.sqlite-viewer",
+    "rangav.vscode-thunder-client",
+    "ritwickdey.LiveServer",
+    "SimonSiefke.svg-preview",
+    "styled-components.vscode-styled-components",
+    "WakaTime.vscode-wakatime",
+    "WallabyJs.console-ninja",
+    "withfig.fig",
+    "wix.vscode-import-cost",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
