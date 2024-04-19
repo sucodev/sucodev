@@ -3,34 +3,25 @@
     "editor.formatOnSave": true,
     "explorer.compactFolders": false,
     "workbench.iconTheme": "symbols",
-    //Configura o tamanho e família da fonte
     "editor.inlayHints.fontFamily": "Victor Mono",
     "editor.fontFamily": "Victor Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "editor.lineHeight": 24,
-    //Tamanho da fonte do terminal integrado VSCode
     "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
     "terminal.integrated.fontSize": 14,
-    //Aplica linhas verticais para lembrar de quebrar linhas
     "editor.rulers": [
-      // 80,
       120
     ],
     "editor.wordWrap": "bounded",
     "workbench.tree.indent": 15,
     "workbench.tree.renderIndentGuides": "always",
-    //Não importar automaticamente os arquivos externos
     "javascript.updateImportsOnFileMove.enabled": "never",
-    // Brackets Pair Colorization
     "editor.bracketPairColorization.enabled": true,
-    //Árvore de pastas
     "breadcrumbs.enabled": true,
-    //Integrar Prettier + ESLint
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true
     },
-    //Aplica um sinal visual na esquerda da linha selecionada
     "editor.renderLineHighlight": "gutter",
     "editor.tabSize": 2,
     "emmet.syntaxProfiles": {
@@ -40,7 +31,6 @@
       "javascript": "javascriptreact",
       "njk": "html"
     },
-    //Dicas (documentações)
     "editor.parameterHints.enabled": false,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
