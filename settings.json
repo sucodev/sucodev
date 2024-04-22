@@ -74,7 +74,7 @@
     "window.commandCenter": false,
     "typescript.updateImportsOnFileMove.enabled": "always"
     },
-extensions: [
+"extensions": [
   "andys8.jest-snippets",
   "apollographql.vscode-apollo",
   "bradlc.vscode-tailwindcss",
