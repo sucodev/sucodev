@@ -74,17 +74,3 @@ During my 8 years with software developer, I continue working with a several pro
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </div>
 
-### Status
-<div style="display: flex; gap: 10px;">
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucodev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucodev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucodev&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sucodev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sucodev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
-
-</div>
-
-
